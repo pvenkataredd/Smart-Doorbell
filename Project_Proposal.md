@@ -77,6 +77,7 @@ A pretrained embedding model (e.g., a small FaceNet/MobileFaceNet variant) for k
 SQLite or simple pickle/JSON store for embeddings
 
 6. Team Member Responsibilities (Lead Roles)
+   
 Role
 Lead
 Responsibilities
@@ -99,7 +100,8 @@ Algorithm Design
 Pranav
 Matching/threshold logic, embedding database design, delivery-person classifier (stretch)
 
-8. Project Timeline
+7. Project Timeline
+   
 Week
 Milestone
 Week 1
@@ -119,10 +121,12 @@ Final testing, debugging, polish; record demo; finish report and README
 Week 8
 Submit final deliverables / live demo
 
-9. References
+8. References
 Howard, A. G., et al. "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications." arXiv:1704.04861.
 TensorFlow Lite documentation — on-device inference guide.
 FaceNet: A Unified Embedding for Face Recognition and Clustering (Schroff et al., 2015).
 Raspberry Pi Camera Module documentation.
+
+
 Our team divided the project into six lead roles: Pranav leads setup and algorithm design, Pari leads software development and technical writing, and Anish leads networking and research/model selection.
 
