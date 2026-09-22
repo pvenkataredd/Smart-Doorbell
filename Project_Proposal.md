@@ -1,5 +1,7 @@
 Project Proposal: An Intelligent but Offline Smart Doorbell
+
 Team Members: Parinitha, Pranav, Anish 
+
 1. Motivation
 Most smart doorbells on the market (Ring, Nest, etc.) depend on cloud services to run face recognition and send alerts. This creates three problems: privacy risk (video/faces sent to third party servers), reliability issues (no internet means no doorbell), and recurring subscription costs. We want to explore whether a fully offline edge-deployed system can deliver similar core functionality, detecting a visitor and recognizing whether they are a known household member, using only on-device computers. This is a good fit for our team's interest in embedded systems, edge ML deployment, and resource-constrained inference, and gives us hands-on experience with the full pipeline from model training to real-time inference on limited hardware.
 2. Design Goals
